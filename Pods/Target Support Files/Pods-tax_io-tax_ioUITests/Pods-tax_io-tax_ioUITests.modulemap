@@ -1,0 +1,6 @@
+framework module Pods_tax_io_tax_ioUITests {
+  umbrella header "Pods-tax_io-tax_ioUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
